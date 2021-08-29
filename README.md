@@ -1,4 +1,4 @@
-![Wolley Fan](wolley_fan.png)
+![Wolley Fan](wolley_fan.jpg)
 
 The Mechanical Project for the Wolley Fan Module
 ================================================
